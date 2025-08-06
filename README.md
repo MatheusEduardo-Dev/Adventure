@@ -35,15 +35,24 @@ O jogo é executado via terminal. Você interage com o ambiente digitando comand
 
 ### Exemplo de progresso:
 olha
+
 sai Corredor
+
 pega pe_de_cabra
+
 sai Biblioteca
+
 pega artefato_quebrado
+
 sai Sala_Secreta
+
 usa pe_de_cabra porta_secreta
+
 sai Sala_do_Tesouro
+
 usa lanterna cofre
 
 
 Matheus Eduardo
+
 💼 Projeto acadêmico — PUCRS
