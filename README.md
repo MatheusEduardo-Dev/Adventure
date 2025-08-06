@@ -2,6 +2,7 @@
 Jogo de aventura utilizando javascript
 
 🛠️ Tecnologias
+
 JavaScript (ES6+)
 
 Programação Orientada a Objetos
